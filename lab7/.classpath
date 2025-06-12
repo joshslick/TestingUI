@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lab7/src"/>
+	<classpathentry kind="src" path="lab7/test"/>
+	<classpathentry kind="lib" path="lab7/lib/assertj-core-3.17.1.jar"/>
+	<classpathentry kind="lib" path="lab7/lib/assertj-swing-3.17.1.jar"/>
+	<classpathentry kind="lib" path="lab7/lib/assertj-swing-junit-3.17.1.jar"/>
+	<classpathentry kind="lib" path="lab7/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lab7/lib/junit-4.12.jar"/>
+	<classpathentry kind="output" path="lab7/bin"/>
+</classpath>
